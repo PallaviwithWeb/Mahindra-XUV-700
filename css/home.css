@@ -1,0 +1,2065 @@
+/* xuv banner section */
+.banner-content h1{
+    font-size: 1600%;
+    font-family: "Allerta Stencil";
+    font-weight: 400;
+    color: #55C2FF;
+    text-align: center;
+}
+.banner-img{
+    width: 100%;
+    height: auto;
+    aspect-ratio: auto 1512/1411;
+}
+.banner{
+    background-color: #000;
+    margin-top: -1px;
+}
+.banner-img-wrapper{
+    margin-top: -148px;
+}
+.banner-content p{
+    font-family: "Quicksand";
+    font-weight: 300;
+    font-size: 110%;
+    text-align: center;
+    color:#fff;
+    max-width: 580px;
+    display: block;
+    margin:-10rem auto 9rem;
+}
+/* xuv price section */
+.xuv-price{
+    background: url("../images/price-bg-1.png") no-repeat;
+    background-size: cover;
+    margin-top: -1px;
+}
+.feature-wrapper{
+    display: flex;
+}
+.align-mid-end{
+    display: flex;
+    justify-content: flex-end;
+    width: 45%;
+    margin-right:3rem;
+}
+.price-wrapper h2{
+    font-family: "Quicksand";
+    font-weight: 600;
+    font-size: 250%;
+    color:#fff;
+    margin-bottom:0;
+}
+.price-wrapper h3{
+    font-family: "Quicksand";
+    font-weight: 600;
+    font-size: 180%;
+    color:#fff;
+}
+.review-wrapper{
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+.review-wrapper .fa-star{
+    color: #FFAC30;
+    padding: 0 3px 10px;
+}
+.review-wrapper span{
+    color: #FFAC30;
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 70%;
+    background-color: #000;
+    padding: 0 10px;
+    margin-left: -11px;
+}
+.feature-content-wrapper{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.feature-card{
+    width: calc((100% - 40px) / 3);
+    margin-right:20px;
+    margin-bottom:20px;
+}
+.feature-card:nth-child(3), .feature-card:nth-child(6){
+    margin-right:0;
+}
+.price-wrapper h4{
+    color: #55C2FF;
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 130%;
+}
+.feature-icon1{
+    width: 100%;
+    height:auto;
+    aspect-ratio:auto 51/37;
+}
+.feature-icon2{
+    width: 100%;
+    height:auto;
+    aspect-ratio:auto 33/39;
+}
+.feature-icon3{
+    width: 100%;
+    height:auto;
+    aspect-ratio:auto 63/26;
+}
+.feature-icon4{
+    width: 100%;
+    height:auto;
+    aspect-ratio:auto 44/39;
+}
+.feature-icon5{
+    width: 100%;
+    height:auto;
+    aspect-ratio:auto 34/38;
+}
+.feature-icon6{
+    width: 100%;
+    height:auto;
+    aspect-ratio:auto 42/40;
+}
+.feature-content h3{
+    font-family: "Quicksand";
+    font-weight: 400;
+    font-size: 90%;
+    color: #55c2ff;
+    margin-bottom:0;
+}
+.feature-content p{
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 90%;
+    color: #fff;
+}
+.feature-icon-wrapper1{
+    width: 24%;
+    margin-bottom: 5px;
+}
+.feature-icon-wrapper2{
+    width: 16%;
+    margin-bottom: 5px;
+}
+.feature-icon-wrapper3{
+    width: 26%;
+    margin-bottom: 5px;
+}
+.feature-icon-wrapper4{
+    width: 16%;
+    margin-bottom: 5px;
+}
+.feature-icon-wrapper5{
+    width: 16%;
+    margin-bottom: 5px;
+}
+.feature-icon-wrapper6{
+    width: 20%;
+    margin-bottom: 5px;
+}
+.check-offers-wrapper{
+    display: flex;
+}
+.xuv-2-wrapper{
+    width: 45%;
+    margin-right:3rem;
+}
+.offers-content-wrapper{
+    width: 50%;
+    margin-top:3rem;
+}
+.offers-content-wrapper p{
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 110%;
+    color:#fff;
+    max-width: 450px;
+    margin-bottom:2rem;
+}
+.check-offers-btn{
+    width: 31%;
+    padding:6px 12px;
+    background: #FFAC30;
+    color: #000;
+    border-radius: 25px;
+    border:none;
+    font-family: "League Spartan";
+    font-weight: 600;
+    font-size: 110%;
+}
+.check-offers-btn-wrapper a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.xuv-3-wrapper{
+    width: 50%;
+}
+.offers-content-wrapper1{
+    width: 45%;
+    margin-top:5rem;
+    margin-right:3rem;
+}
+.offers-content-wrapper1 p{
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 110%;
+    color:#fff;
+    max-width: 490px;
+    margin-bottom:2rem;
+}
+.offers-content-wrapper1 h2{
+    font-family: "Quicksand";
+    font-weight: 600;
+    font-size: 250%;
+    color:#fff;
+    margin-bottom:1rem;
+}
+.nav-tabs .nav-link.active{
+    background-color: unset;
+    border:unset;
+    border-bottom: 2px solid #FFAC30;
+    color: #ffac30;
+    font-size: 115%;
+    font-weight: 700;
+    font-family: "Quicksand";
+}
+#myTab{
+    border:unset;
+}
+#myTab .nav-item{
+    border:unset;
+    margin-right:4rem;
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
+    border-color: unset;
+}
+.nav-tabs .nav-link{
+    border: unset;
+    border-color: unset;
+    color:#fff;
+    font-weight: 300;
+    font-size: 105%;
+    font-family: "Quicksand";
+}
+.varient-card-wrapper{
+    display: flex;
+    width: 67%;
+    background: #f5f5f547;
+    padding: 5px 20px;
+    border-radius: 8px;
+    color: #55C2FF;
+    margin-left: -20px;
+}
+.varient-card{
+    width: calc((100% - 6rem) / 3);
+    margin-right:6rem;
+}
+.varient-card:nth-child(2), .varient-card:nth-child(3){
+    margin-right:0;
+}
+#myTabContent{
+    margin-top:2rem;
+}
+.varient-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 65%;
+}
+.varient-content-card{
+    width: calc((100% - 12rem) / 3);
+    margin: 1.5rem 3rem 0rem 0;
+}
+.varient-content-card:nth-child(3){
+    margin-right:0;
+    text-align: right;
+}
+.varient-content-card h3{
+    font-family: "Quicksand";
+    color:#fff;
+    font-size: 115%;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.varient-content-card p{
+    font-family: "Quicksand";
+    color:#fff;
+    font-size: 90%;
+    font-weight: 300;
+}
+.varient-content-card span{
+    color: #FFAC30;
+    font-family: "Quicksand";
+    font-weight: 300;
+    font-size: 80%;
+}
+.varient-content-card:nth-child(2){
+    text-align: center;
+}
+.offers-btn{
+    border: 2px solid #FFAC30;
+    border-radius: 25px;
+    font-family: "Quicksand";
+    font-weight: 400;
+    color:#fff;
+    font-size: 90%;
+    cursor: pointer;
+    background: transparent;
+    width: 74%;
+    padding: 2px 12px;
+}
+.offers-btn-wrapper a{
+    text-decoration: none;
+}
+.view-more-wrapper{
+    display: flex;
+    justify-content: flex-end;
+    width: 65%;
+}
+.view-more{
+    color: #FFAC30;
+}
+.view-less{
+    color: #FFAC30;
+    display: none;
+}
+.diesel-view-more{
+    color: #FFAC30;
+}
+.diesel-view-less{
+    color: #FFAC30;
+    display: none;
+}
+.petrol-view-more{
+    color: #FFAC30;
+}
+.petrol-view-less{
+    color: #FFAC30;
+    display: none;
+}
+.automatic-view-more{
+    color: #FFAC30;
+}
+.automatic-view-less{
+    color: #FFAC30;
+    display: none;
+}
+.view-more-wrapper .fa-caret-down{
+    color: #FFAC30;
+}
+.view-more-wrapper .fa-caret-up{
+    color: #FFAC30;
+}
+.hidden {
+    display: none;
+}
+/* Milage  */
+.milage-content h2{
+    font-family: "Quicksand";
+    font-weight: 600;
+    font-size: 250%;
+    color:#fff;
+}
+.milage-content p{
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 110%;
+    color:#fff;
+    margin-bottom:2rem;
+}
+
+.milage-head ul{
+    margin: 0 0 12px -20px;
+    padding: 2px 0px 2px 28px;
+    background: #f5f5f547;
+    display: flex;
+    justify-content: space-between;
+    width: 67%;
+    border-radius: 8px;
+}
+
+.milage-head ul li{
+    list-style: none;
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 110%;
+    color: #55C2FF;
+    width: calc((100% - 60px) / 3);
+    margin-right: 20px;
+}
+.milage-head ul li:last-child{
+    margin-right:0;
+}
+.milage-head ul li:last-child{
+    margin-right:0;
+}
+.milage-details ul{
+    margin: 18px 0 0px;
+    padding: 2px 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 68%;
+    text-align: left;
+    position: relative;
+}
+.milage-details ul:after{
+    content:"";
+    background: #fff;
+    width: 95%;
+    height: 1px;
+    position: absolute;
+    bottom: -10px;
+}
+.milage-details ul:last-child::after{
+    content: unset;
+}
+.milage-details ul li{
+    list-style: none;
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 110%;
+    color: #fff;
+    width: calc((100% - 60px) / 3);
+    margin-right: 20px;
+}
+/* expert advice */
+.expert-advice{
+    background-color: #000;
+    margin-top: -1px;
+}
+.advice-head-wrapper{
+    display: flex;
+    align-items: center;
+    padding-left:80px;
+}
+.advice-head{
+    width: 50%;
+}
+.advice-img-wrapper{
+    width: 50%;
+}
+.advice-head span{
+    color: #FFAC30;
+    font-family: "League Spartan";
+    font-weight: 200;
+    font-size: 370%;
+    line-height: 45px;
+}
+.advice-head h2{
+    font-family: "League Spartan";
+    font-weight: 600;
+    font-size: 350%;
+    color:#fff;
+}
+.advice-head p{
+    font-family: "Quicksand";
+    font-weight: 600;
+    color:#fff;
+    font-size: 110%;
+    max-width: 450px;
+}
+.advice-details-wrapper .nav-tabs .nav-link.active{
+    background-color: unset;
+    border:unset;
+    color: #ffac30;
+    font-size: 130%;
+    font-weight: 700;
+    font-family: "League Spartan";
+}
+.advice-details-wrapper .nav-tabs .nav-link.active::before{
+    content: "\25bc";
+    position: absolute;
+    right: 45%; 
+    top: 35%; 
+    font-size: 14px; /
+}
+.advice-details-wrapper .nav-tabs .nav-link{
+    position: relative;
+}
+.advice-details-wrapper .nav-tabs .nav-link:after{
+    content: "";
+    background: #fff;
+    position: absolute;
+    right:20%;
+    width: 1px;
+    height: 20px;
+    top:28%;
+}
+.advice-details-wrapper .nav-tabs .nav-item:nth-child(4) .nav-link::after{
+    content: unset;
+}
+.advice-details-wrapper .nav-tabs .nav-link{
+    font-family: "League Spartan";
+    color:#fff;
+    font-weight: 600;
+    font-size: 130%;
+}
+.advice-details-wrapper .nav-tabs .nav-item{
+    width: calc((100% - 30px) / 4);
+    margin-right:10px;
+}
+.advice-details-wrapper .nav-tabs .nav-item:last-child{
+    margin-right:0;
+}
+
+.advice-details-wrapper .nav-tabs{
+    width: 80%;
+}
+.xuv-700-5{
+    width: 100%;
+    height: auto;
+    aspect-ratio: auto 1064/493;
+}
+#expertAdviceContent p{
+    font-family: "Quicksand";
+    font-weight: 600;
+    font-size: 110%;
+    color:#fff;
+    margin:2rem 0 1rem;
+}
+.expert-advice-img-wrapper{
+    width: 90%;
+    display: block;
+    text-align: center;
+    margin:0 auto;
+    position: relative;
+}
+.advice-img-view-more{
+    position: absolute;
+    bottom:11%;
+    left:0;
+    right:0;
+}
+.view-more-advice-btn{
+    width: 14%;
+    padding:2px 12px;
+    border:1px solid #ffac30;
+    border-radius:14px;
+    font-family: "Quicksand";
+    font-size: 100%;
+    font-weight: 600;
+    background: transparent;
+    color:#ffac30;
+}
+.view-more-advice-btn .fas{
+    color:#FFAC30;
+    padding:6px;
+}
+.view-less-advice-btn{
+    display: none;
+}
+.view-less-advice-btn{
+    width: 14%;
+    padding:0px 12px;
+    border:1px solid #ffac30;
+    border-radius:18px;
+    font-family: "Quicksand";
+    font-size: 100%;
+    font-weight: 600;
+    background: transparent;
+    color:#ffac30;
+}
+.view-less-advice-btn .fas{
+    color:#FFAC30;
+    padding:6px;
+}
+.xuv-700-6{
+    width: 100%;
+    height: auto;
+    aspect-ratio:auto 748/439;
+}
+.compare-wrapper{
+    display: flex;
+    position: relative;
+}
+.compare-wrapper::after{
+    content: "";
+    position: absolute;
+    background: #fff;
+    width: 100%;
+    height:1px;
+    bottom:0%;
+}
+.compare-wrapper:last-child::after{
+    content: unset;
+}
+.compare{
+    background-color: #000;
+    margin-top: -1px;
+}
+.compare-content .light-font{
+    font-family: "League Spartan";
+    color:#fff;
+    font-weight: 100;
+    font-size: 250%;
+}
+.compare-content .big-font{
+    font-family: "League Spartan";
+    color:#fff;
+    font-weight:600;
+    font-size: 285%;
+}
+.compare-img-wrapper{
+    width: 45%;
+}
+.compare-content{
+    width: 55%;
+}
+.compare-content h3{
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 200%;
+    color:#fff;
+}
+.compare-content h2{
+    margin-bottom:0;
+    line-height: 70px;
+}
+.compare-content p{
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 110%;
+    color:#fff;
+}
+.compare-img-wrapper h3{
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 130%;
+    color: #00BA6C;
+    margin-top:2rem;
+    padding: 0 4rem;
+}
+.compare-content{
+    margin-top:2rem;
+}
+.compare-content ul li{
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 110%;
+    color: #fff;
+    margin-top:1rem;
+}
+.compare-img-wrapper h3.red{
+    color: #FE5959;
+}
+/* review */
+.review{
+    background-color: #000;
+    margin-top: -1px;
+}
+.review-content{
+    position: relative;
+    line-height: 40px;
+}
+.review-content span{ 
+    font-family: "Quicksand";
+    color:#fff;
+    font-weight: 300;
+    font-size: 370%;
+}
+.review-content h2{
+    font-family: "Quicksand";
+    color:#fff;
+    font-weight: 600;
+    font-size: 350%;
+    margin-bottom:1rem;
+}
+.review-content .review-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+.review-content .review-wrapper .fa-star{
+    font-size: 26px;
+}
+.review-wrapper h3{
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 230%;
+    color:#fff;
+    margin-left:-19px;
+    background-color: #000;
+    padding: 0 10px;
+}
+.review-content .review-wrapper span{
+    margin-left:0px;
+    font-size: 70%;
+    padding:0;
+}
+.review-btn-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.reivew-btn{
+    color: #FFAC30;
+    background-color: transparent;
+    padding:2px 10px;
+    width: 20%;
+    border-radius:18px;
+    border:1px solid #FFAC30;
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 105%; 
+}
+.filter-btn{
+    color: #fff;
+    background-color: transparent;
+    padding:2px 10px;
+    width: 12%;
+    border-radius:18px;
+    border:1px solid #fff;
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 110%; 
+    text-align: center;
+}
+.filter-btn .fas {
+    padding: 5px;
+}
+.quote-wrapper{
+    position: absolute;
+    left: -5%;
+    top: -9%;
+    width: 5%;
+}
+.user-review-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin:3rem 0;
+    flex-wrap: wrap;
+}
+.review-card{
+    border:3px solid #fff;
+    width: calc((100% - 40px) / 3);
+    margin-right:20px;
+    margin-bottom:20px;
+    padding:20px;
+}
+.review-card:nth-child(3), .review-card:nth-child(6), .review-card:nth-child(9){
+    margin-right:0;
+}
+.review-card p{
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 100%;
+    color:#fff;
+    margin-bottom:2rem;
+    max-width: 275px;
+}
+.review-card span{
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 70%;
+    color:#fff;
+}
+.review-view-more, .review-view-less{
+    color: #FFAC30;
+    background-color: transparent;
+    padding:2px 12px;
+    width: 14%;
+    border-radius:14px;
+    border:1px solid #FFAC30;
+    font-family: "Quicksand";
+    font-weight: 600;
+    font-size: 100%; 
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.review-view-more-wrapper{
+    text-align: center;
+}
+.review-view-more .fas {
+    color: #FFAC30;
+    padding: 5px;
+}
+.review-view-less {
+    display: none;
+}
+.xuv-700-7{
+    width: 100%;
+    height:auto;
+    aspect-ratio:auto 583/475;
+}
+.videos{
+    background-color:#000;
+    margin-top: -1px;
+}
+.related-video-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.videos-head span{
+    color:#fff;
+    font-family: "Quicksand";
+    font-size: 370%;
+    line-height: 60px;
+    font-weight: 300;
+}
+.videos-head h2{
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 350%;
+    color:#fff;
+    margin-bottom:1rem;
+}
+.play-icon-img-wrapper{
+    background-color: #fff;
+    padding: 16px 18px 18px 27px;
+    width: 67%;
+    border-radius: 50%;
+}
+.video-details{
+    display: flex;
+    justify-content: center;
+}
+.videos-head{
+    width: 55%;
+    padding-left:80px;
+}
+.video-img-wrapper{
+    width: 45%;
+}
+.video-content p{
+    font-family: "Quicksand";
+    font-weight: 500;
+    font-size: 86%;
+    color:#fff;
+
+}
+.video-content{
+    width: 55%;
+    margin-left:3rem;
+}
+.play-wrapper{
+    width: 45%;
+}
+.play-icon{
+    width: 100%;
+    height:auto;
+    aspect-ratio:auto 57/72;
+}
+.play-wrapper {
+    width: 45%;
+    padding-left: 9rem;
+}
+iframe, video{
+    background-color: #fff;
+    padding:7px;
+    border-radius: 8px;
+}
+.video-card{
+    position: relative;
+}
+#owl-videos{
+    padding-left:80px;
+    position: relative;
+}
+.owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled {
+    display: block !important;
+}
+.owl-theme .owl-nav [class*=owl-]:hover{
+    background: unset;
+}
+.fa-arrow-right{
+    font-size: 20px;
+}
+.gradient{
+    position: absolute;
+    top: 0%;
+    right: 0;
+    width: 6%;
+    height: 91%;
+    z-index: 2;
+    background: linear-gradient(200.14deg, #000000 9.09%, rgba(0, 0, 0, 0) 86.58%);
+    pointer-events: none;
+}
+.owl-carousel {
+    position: relative;
+}
+.owl-carousel .owl-nav button.owl-next{
+    position: absolute;
+    right: 1%;
+    top: 34%;
+    z-index: 3;
+    pointer-events: auto;
+}
+.carousel-wrapper{
+    position: relative;
+}
+.video-icon-wrapper{
+    background-color: #fff;
+    padding: 16px 18px 18px 27px;
+    width: 20%;
+    border-radius: 50%;
+    position: absolute;
+    top: 32%;
+    left: 36%;
+    z-index: 10;
+}
+.video-icon-wrapper.hidden {
+    pointer-events: none; 
+}
+
+@media screen and (min-width: 2500px) {
+    body {
+        max-width: 2500px;
+    }
+}
+
+@media screen and (min-width: 2000px) and (max-width: 2499px) {
+    .banner-content h1 {
+        font-size: 1800%;
+    }
+    .video-icon-wrapper {
+        width: 15%;
+        left: 40%;
+        top: 40%;
+    }
+    .advice-head-wrapper {
+        padding-left:400px;
+    }
+    .banner-content p {
+        font-size: 125%;
+    }
+    .feature-content h3 {
+        font-size: 120%;
+    }
+    .price-wrapper h2 {
+        font-size: 300%;
+    }
+    .price-wrapper h3 {
+        font-size: 200%;
+    }
+    .feature-content p {
+        font-size: 105%;
+    }
+    .price-wrapper h3 {
+        font-size: 240%;
+    }
+    .review-wrapper .fa-star{
+        font-size: 18px;
+    }
+    .review-wrapper span {
+        font-size: 85%;
+    }
+    .price-wrapper h4 {
+        font-size: 145%;
+    }
+    .offers-content-wrapper p {
+        font-size: 130%;
+        max-width: 650px;
+    }
+    .check-offers-btn {
+        padding: 8px 12px;
+        font-size: 145%;
+    }
+    .offers-content-wrapper1 h2 {
+        font-size: 300%;
+    }
+    .offers-content-wrapper1 p{
+        font-size: 125%;
+        max-width: 690px;
+    }
+    .nav-tabs .nav-link.active {
+        font-size: 150%;
+    }
+    #myTab .nav-item{
+        margin-right:6rem;
+    }
+    .nav-tabs .nav-link {
+        font-size: 145%;
+    }
+    .varient-card span{
+        font-size: 155%;
+    }
+    .varient-card {
+        margin-right:7rem;
+    }
+    .varient-content-card h3 {
+        font-size: 145%;
+    }
+    .varient-content-card p {
+        font-size: 106%;
+    }
+    .varient-content-card span {
+        font-size: 96%;
+    }
+    .offers-btn {
+        font-size: 120%;
+        padding: 4px 12px;
+        width: 82%;
+    }
+    .view-more {
+        font-size: 130%;
+    }
+    .milage-content h2{
+        font-size:300%;
+    }
+    .milage-content p{
+        font-size: 125%;
+    }
+    .milage-head ul {
+        padding: 6px 0px 6px 28px;
+    }
+    .milage-head ul li {
+        font-size: 125%;
+    }
+    .milage-details ul li {
+        font-size: 125%;
+    }
+    .advice-head h2 {
+        font-size: 450%;
+    }
+    .advice-head span {
+        font-size: 400%;
+    }
+    .advice-head p{
+        font-size: 125%;
+        margin-bottom:3rem;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link.active {
+        font-size: 180%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link {
+        font-size: 170%;
+    }
+    #expertAdviceContent p {
+        font-size: 125%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link.active::before {
+        right: 42%;
+        font-size: 17px;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link:after{
+        right: 20%;
+        top: 23%;
+        height: 30px;
+    }
+    .view-more-advice-btn{
+        font-size: 124%;
+        padding: 4px 11px;
+        width: 16%;
+    }
+    .compare-content p{
+        font-size: 125%;
+    }
+    .compare-content h3 {
+        font-size: 230%;
+    }
+    .compare-img-wrapper h3 {
+        font-size: 150%;
+    }
+    .compare-content ul li {
+        font-size: 125%;
+    }
+    .review-content .review-wrapper {
+        margin-bottom:14px;
+    }
+    .reivew-btn {
+        font-size: 110%;
+    }
+    .review-card p {
+        font-size: 119%;
+        max-width: 350px;
+    }
+    .review-card span {
+        font-size: 100%;
+    }
+    .review-view-more, .review-view-less{
+        padding: 8px 14px;
+        font-size: 124%;
+        width: 16%;
+    }
+    .videos-head{
+        padding-left:400px;
+    }
+    .video-content p {
+        font-size: 120%;
+    }
+    .play-wrapper {
+        padding-left:9rem;
+    }
+    #owl-videos {
+        padding-left:160px;
+    }
+    iframe, video {
+        width: 620px;
+        height: 400px;
+    }
+    .fa-arrow-right:before {
+        font-size: 34px;
+    }
+}
+
+@media screen and (min-width: 1600px) and (max-width: 1999px) {
+    .video-icon-wrapper {
+        width: 15%;
+        left: 29%;
+    }
+    .advice-head-wrapper {
+        padding-left:280px;
+    }
+    .banner-content p {
+        font-size: 115%;
+    }
+    .feature-content h3 {
+        font-size: 100%;
+    }
+    .price-wrapper h2 {
+        font-size: 280%;
+    }
+    .price-wrapper h3 {
+        font-size: 200%;
+    }
+    .feature-content p {
+        font-size: 100%;
+    }
+    .price-wrapper h3 {
+        font-size: 225%;
+    }
+    .offers-content-wrapper p {
+        font-size: 115%;
+    }
+    .offers-content-wrapper1 h2 {
+        font-size: 280%;
+    }
+    .offers-content-wrapper1 p{
+        font-size: 115%;
+    }
+    .nav-tabs .nav-link.active {
+        font-size: 140%;
+    }
+    .nav-tabs .nav-link {
+        font-size: 124%;
+    }
+    .varient-card span{
+        font-size: 120%;
+    }
+    .varient-content-card h3 {
+        font-size: 145%;
+    }
+    .varient-content-card p {
+        font-size: 100%;
+    }
+    .varient-content-card span {
+        font-size: 90%;
+    }
+    .offers-btn {
+        font-size: 105%;
+        padding: 4px 12px
+    }
+    .view-more {
+        font-size: 115%;
+    }
+    .milage-content h2{
+        font-size: 280%;
+    }
+    .milage-content p{
+        font-size: 115%;
+    }
+    .milage-head ul {
+        padding: 4px 0px 4px 28px;
+    }
+    .milage-head ul li {
+        font-size: 115%;
+    }
+    .milage-details ul li {
+        font-size: 115%;
+    }
+    .advice-head h2 {
+        font-size: 400%;
+    }
+    .advice-head p{
+        font-size: 115%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link.active {
+        font-size: 160%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link {
+        font-size: 150%;
+    }
+    #expertAdviceContent p {
+        font-size: 115%;
+    }
+    .view-more-advice-btn{
+        font-size: 110%;
+        padding: 4px 12px;
+    }
+    .compare-content p{
+        font-size: 115%;
+    }
+    .compare-content h3 {
+        font-size: 210%;
+    }
+    .compare-img-wrapper h3 {
+        font-size: 140%;
+    }
+    .compare-content ul li {
+        font-size: 130%;
+    }
+    .reivew-btn {
+        font-size: 110%;
+    }
+    .review-card p {
+        font-size: 115%;
+    }
+    .review-card span {
+        font-size: 90%;
+    }
+    .review-view-more, .review-view-less{
+        padding: 4px 12px;
+        font-size: 110%;
+    }
+    .videos-head{
+        padding-left:160px;
+    }
+    .video-content p {
+        font-size: 100%;
+    }
+    .play-wrapper {
+        padding-left:11rem;
+    }
+    #owl-videos {
+        padding-left:160px;
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1200px) {
+    /*Nest Hub*/
+    .banner-content h1 {
+        font-size: 1200%;
+        margin-top:2rem;
+    }
+    .banner-img-wrapper {
+        margin-top: -85px;
+    }
+    .banner-content p {
+        margin: -6rem auto 4rem;
+    }
+    .feature-content-wrapper {
+        width: 55%;
+    }
+    .align-mid-end{
+        width: 40%;
+    }
+    .offers-content-wrapper p {
+        font-size: 100%;
+    }
+    .check-offers-btn {
+        width: 50%;
+        font-size: 100%;
+        margin-bottom: 2rem;
+    }
+    .offers-content-wrapper p {
+        margin-bottom:1rem;
+    }
+    .offers-content-wrapper1 {
+        margin-top:0;
+        margin-right:2rem;
+    }
+    .offers-content-wrapper1 p {
+        font-size: 100%;
+        margin-bottom:0;
+    }
+    .offers-content-wrapper1 h2 {
+        font-size: 300%;
+    }
+    .offers-content-wrapper {
+        margin-top:0;
+    }
+    .price-wrapper h2 {
+        font-size: 300%;
+    }
+    .price-wrapper h3 {
+        font-size: 230%;
+    }
+    .feature-icon-wrapper3 {
+        width: 28%;
+    }
+    #myTab .nav-item {
+        margin-right:2rem;
+    }
+    .varient-card-wrapper {
+        width: 94%;
+    }
+    .varient-content-card {
+        width: calc((100% - 4rem) / 3);
+        margin: 1.5rem 2rem 0rem 0;
+    }
+    .offers-btn {
+        width: 75%;
+    }
+    .varient-content {
+        width: 88%;
+    }
+    .view-more-wrapper{
+        width: 89%;
+    }
+    .milage-content h2{
+        font-size: 300%;
+    }
+    .milage-content p{
+        font-size: 100%;
+    }
+    .milage-head ul {
+        margin: 0 0 12px -17px;
+        padding: 2px 0px 2px 23px;
+        width: 94%;
+    }
+    .milage-details ul {
+        width: 96%;
+    }
+    .milage-details ul li{
+        font-size: 100%;
+    }
+    .advice-head-wrapper {
+        padding-left: 40px;
+    }
+    .advice-head span{
+        font-size: 300%;
+    }
+    .advice-head h2{
+        font-size: 320%;
+    }
+    .advice-head p{
+        font-size: 100%;
+    }
+    .advice-details-wrapper .nav-tabs {
+        width: 97%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link.active::before {
+        right:31%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link:after {
+        right: 6%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link {
+        font-size: 120%;
+    }
+    #expertAdviceContent p{
+        font-size: 100%;
+    }
+    .view-more-advice-btn {
+        width: 22%;
+    }
+    .compare-content .big-font{
+        font-size: 200%;
+    }
+    .compare-content .light-font {
+        font-size: 190%;
+    }
+    .compare-content h3 {
+        font-size: 165%;
+    }
+    .compare-content p{
+        font-size: 100%;
+    }
+    .compare-img-wrapper h3 {
+        font-size: 125%;
+    }
+    .quote-wrapper {
+        position: absolute;
+        left: -3.8%;
+        top: -9%;
+        width: 4.5%;
+    }
+    .compare-content ul li{
+        font-size: 100%;
+        margin-top:10px;
+    }
+    .compare-img-wrapper{
+        width: 50%;
+    }
+    .review-content span{
+        font-size: 300%;
+    }
+    .review-content h2{
+        font-size: 320%;
+    }
+    .review-wrapper h3 {
+        font-size: 200%;
+    }
+    .review .dropdown-menu {
+        width: 152%;
+    }
+    .review-content .review-wrapper .fa-star {
+        font-size: 21px;
+    }
+    .reivew-btn {
+        width: 25%;
+        font-size: 100%;
+    }
+    .user-review-wrapper {
+        margin: 2rem 0;
+    }
+    .filter-btn {
+        width: 15%;
+        font-size: 100%;
+    }
+    .review-card p {
+        font-size: 90%;
+    }
+    .review-view-more, .review-view-less {
+        width: 20%;
+    }
+    .videos-head {
+        padding-left:40px;
+        width: 57%;
+    }
+    .video-img-wrapper {
+        width: 43%;
+    }
+    .play-icon-img-wrapper {
+        width: 60%;
+    }
+    .videos-head span{
+        font-size: 300%;
+    }
+    .videos-head h2{
+        font-size: 300%;
+    }
+    .play-wrapper {
+        padding-left:5rem;
+    }
+    .video-content {
+        margin-left:0;
+    }
+    .videos {
+        margin-top: -1px;
+    }
+    #owl-videos{
+        padding-left:64px;
+    }
+    .video-icon-wrapper {
+        left:28%;
+        width:17%;
+    }
+}
+
+@media screen and (min-width:769px) and (max-width:991px) {
+    .banner-content h1 {
+        font-size: 1000%;
+        margin-top:2rem;
+    }
+    .banner-img-wrapper {
+        margin-top: -85px;
+    }
+    .banner-content p {
+        margin: -6rem auto 4rem;
+    }
+    .feature-content-wrapper {
+        width: 55%;
+    }
+    .align-mid-end{
+        width: 40%;
+    }
+    .offers-content-wrapper p {
+        font-size: 100%;
+    }
+    .check-offers-btn {
+        width: 50%;
+        font-size: 100%;
+        margin-bottom: 2rem;
+    }
+    .offers-content-wrapper p {
+        margin-bottom:1rem;
+    }
+    .offers-content-wrapper1 {
+        margin-top:0;
+        margin-right:2rem;
+    }
+    .offers-content-wrapper1 p {
+        font-size: 100%;
+        margin-bottom:0;
+    }
+    .offers-content-wrapper1 h2 {
+        font-size: 250%;
+    }
+    .offers-content-wrapper {
+        margin-top:0;
+    }
+    .price-wrapper h2 {
+        font-size: 250%;
+    }
+    .price-wrapper h3 {
+        font-size: 190%;
+    }
+    #myTab .nav-item {
+        margin-right:2rem;
+    }
+    .varient-card-wrapper {
+        width: 94%;
+    }
+    .varient-content-card {
+        width: calc((100% - 4rem) / 3);
+        margin: 1.5rem 2rem 0rem 0;
+    }
+    .offers-btn {
+        width: 75%;
+    }
+    .varient-content {
+        width: 88%;
+    }
+    .view-more-wrapper{
+        width: 89%;
+    }
+    .milage-content h2{
+        font-size: 250%;
+    }
+    .milage-content p{
+        font-size: 100%;
+    }
+    .milage-head ul {
+        margin: 0 0 12px -17px;
+        padding: 2px 0px 2px 23px;
+        width: 94%;
+    }
+    .milage-details ul {
+        width: 96%;
+    }
+    .milage-details ul li{
+        font-size: 100%;
+    }
+    .advice-head-wrapper {
+        padding-left: 40px;
+    }
+    .advice-head span{
+        font-size: 300%;
+    }
+    .advice-head h2{
+        font-size: 320%;
+    }
+    .advice-head p{
+        font-size: 100%;
+    }
+    .advice-details-wrapper .nav-tabs {
+        width: 97%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link.active::before {
+        right:31%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link:after {
+        right: 6%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link {
+        font-size: 120%;
+    }
+    #expertAdviceContent p{
+        font-size: 100%;
+    }
+    .view-more-advice-btn {
+        width: 22%;
+    }
+    .compare-content .big-font{
+        font-size: 200%;
+    }
+    .compare-content .light-font {
+        font-size: 190%;
+    }
+    .compare-content h3 {
+        font-size: 165%;
+    }
+    .compare-content p{
+        font-size: 100%;
+    }
+    .compare-img-wrapper h3 {
+        font-size: 110%;
+    }
+    .compare-content ul li{
+        font-size: 100%;
+        margin-top:10px;
+    }
+    .compare-img-wrapper{
+        width: 50%;
+    }
+    .review-content span{
+        font-size: 300%;
+    }
+    .review-content h2{
+        font-size: 280%;
+    }
+    .review-wrapper h3 {
+        font-size: 200%;
+    }
+    .review .dropdown-menu {
+        width: 152%;
+    }
+    .review-content .review-wrapper .fa-star {
+        font-size: 21px;
+    }
+    .reivew-btn {
+        width: 25%;
+        font-size: 100%;
+    }
+    .user-review-wrapper {
+        margin: 2rem 0;
+    }
+    .filter-btn {
+        width: 17%;
+        font-size: 100%;
+    }
+    .review-card p {
+        font-size: 90%;
+    }
+    .review-view-more, .review-view-less {
+        width: 20%;
+    }
+    .videos-head {
+        padding-left:40px;
+        width: 57%;
+    }
+    .video-img-wrapper {
+        width: 43%;
+    }
+    .play-icon-img-wrapper {
+        width: 60%;
+    }
+    .videos-head span{
+        font-size: 300%;
+    }
+    .videos-head h2{
+        font-size: 280%;
+    }
+    .play-wrapper {
+        padding-left:2rem;
+    }
+    .video-content {
+        margin-left:0;
+    }
+    .videos {
+        margin-top: -1px;
+    }
+    #owl-videos{
+        padding-left:40px;
+    }
+    .nav-tabs .nav-link {
+        font-size: 100%;
+    }
+}
+
+@media screen and (min-width:569px) and (max-width:769px) {
+    .banner-content h1 {
+        font-size: 1000%;
+        margin-top:2rem;
+    }
+    .banner-img-wrapper {
+        margin-top: -85px;
+    }
+    .banner-content p {
+        margin: -6rem auto 4rem;
+    }
+    .feature-content-wrapper {
+        width: 55%;
+    }
+    .align-mid-end{
+        width: 40%;
+    }
+    .offers-content-wrapper p {
+        font-size: 100%;
+    }
+    .check-offers-btn {
+        width: 50%;
+        font-size: 100%;
+        margin-bottom: 2rem;
+    }
+    .offers-content-wrapper p {
+        margin-bottom:1rem;
+    }
+    .offers-content-wrapper1 {
+        margin-top:0;
+        margin-right:2rem;
+    }
+    .offers-content-wrapper1 p {
+        font-size: 100%;
+        margin-bottom:0;
+    }
+    .offers-content-wrapper1 h2 {
+        font-size: 220%;
+    }
+    .offers-content-wrapper {
+        margin-top:0;
+    }
+    .price-wrapper h2 {
+        font-size: 220%;
+    }
+    #myTab .nav-item {
+        margin-right:2rem;
+    }
+    .varient-card-wrapper {
+        width: 94%;
+    }
+    .varient-content-card {
+        width: calc((100% - 4rem) / 3);
+        margin: 1.5rem 2rem 0rem 0;
+    }
+    .offers-btn {
+        width: 75%;
+    }
+    .varient-content {
+        width: 88%;
+    }
+    .view-more-wrapper{
+        width: 89%;
+    }
+    .milage-content h2{
+        font-size: 220%;
+    }
+    .milage-content p{
+        font-size: 100%;
+    }
+    .milage-head ul {
+        margin: 0 0 12px -17px;
+        padding: 2px 0px 2px 23px;
+        width: 94%;
+    }
+    .milage-details ul {
+        width: 96%;
+    }
+    .milage-details ul li{
+        font-size: 100%;
+    }
+    .advice-head-wrapper {
+        padding-left: 40px;
+    }
+    .advice-head span{
+        font-size: 270%;
+    }
+    .advice-head h2{
+        font-size: 250%;
+    }
+    .advice-head p{
+        font-size: 100%;
+    }
+    .advice-details-wrapper .nav-tabs {
+        width: 97%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link.active::before {
+        right:31%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link:after {
+        right: 6%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link {
+        font-size: 120%;
+    }
+    #expertAdviceContent p{
+        font-size: 100%;
+    }
+    .view-more-advice-btn {
+        width: 22%;
+    }
+    .compare-content .big-font{
+        font-size: 200%;
+    }
+    .compare-content .light-font {
+        font-size: 190%;
+    }
+    .compare-content h3 {
+        font-size: 165%;
+    }
+    .compare-content p{
+        font-size: 100%;
+    }
+    .compare-img-wrapper h3 {
+        font-size: 110%;
+    }
+    .compare-content ul li{
+        font-size: 100%;
+        margin-top:10px;
+    }
+    .compare-img-wrapper{
+        width: 50%;
+    }
+    .review-content span{
+        font-size: 270%;
+    }
+    .review-content h2{
+        font-size: 250%;
+    }
+    .review-wrapper h3 {
+        font-size: 200%;
+    }
+    .review-content .review-wrapper .fa-star {
+        font-size: 21px;
+    }
+    .reivew-btn {
+        width: 25%;
+        font-size: 100%;
+    }
+    .filter-btn {
+        width: 17%;
+        font-size: 100%;
+    }
+    .review-card p {
+        font-size: 90%;
+    }
+    .review-view-more, .review-view-less {
+        width: 20%;
+    }
+    .videos-head {
+        padding-left:40px;
+    }
+    .videos-head span{
+        font-size: 270%;
+    }
+    .videos-head h2{
+        font-size: 250%;
+    }
+    .play-wrapper {
+        padding-left:2rem;
+    }
+    .video-content {
+        margin-left:0;
+    }
+    .videos {
+        margin-top: -1px;
+    }
+    #owl-videos{
+        padding-left:40px;
+    }
+    .nav-tabs .nav-link {
+        font-size: 100%;
+    }
+}
+
+@media screen and (min-width:320px) and (max-width:568px) {
+    .banner-content h1{
+        font-size: 500%;
+        margin-top:2rem;
+    }
+    .banner-img-wrapper {
+        margin-top: -42px;
+    }
+    .banner-content p{
+        margin: 0rem auto 3rem;
+    }
+    .feature-wrapper{
+        flex-wrap: wrap;
+    }
+    .align-mid-end{
+        width: 100%;
+        margin-right:0;
+        justify-content: flex-start;
+    }
+    .feature-content-wrapper{
+        width: 100%;
+    }
+    .feature-card{
+        width: calc((100% - 40px) / 2);
+        margin-top:20px;
+    }
+    .check-offers-wrapper{
+        flex-wrap: wrap;
+    }
+    .xuv-2-wrapper{
+        width: 80%;
+        margin:0 auto;
+    }
+    .offers-content-wrapper{
+        width: 100%;
+    }
+    .check-offers-btn {
+        width: 55%;
+    }
+    .offers-content-wrapper1 {
+        width: 100%;
+        margin-top:3rem;
+        margin-right:0;
+    }
+    .xuv-3-wrapper{
+        width: 80%;
+        margin:0 auto;
+    }
+    #myTab .nav-item {
+        margin-right: 2rem;
+    }
+    .varient-card-wrapper {
+        width:100%;
+        margin-left:0;
+    }
+    .varient-content {
+        width: 100%;
+    }
+    .varient-content-card {
+        width: calc((100% - 30px) / 3);
+        margin: 1.5rem 10px 0rem 0;
+    }
+    .offers-btn {
+        width: 100%;
+    }
+    .varient-card {
+        width: calc((100% - 1rem) / 3);
+        margin-right: 3rem;
+    }
+    .milage-head ul{
+        margin:0;
+        width: 100%;
+    }
+    .milage-head ul li {
+        font-size: 78%;
+        width: calc((100% - 15px) / 3);
+        margin-right: 5px;
+    }
+    .milage-details ul {
+        width: 100%;
+    }
+    .milage-details ul li {
+        font-size: 95%;
+        width: calc((100% - 15px) / 3);
+        margin-right: 5px;
+    }
+    .advice-head-wrapper{
+        padding-left:15px;
+        flex-wrap: wrap;
+    }
+    .advice-head{
+        width: 100%;
+    }
+    .advice-head h2 {
+        font-size: 250%;
+    }
+    .advice-head span{
+        font-size: 270%;
+    }
+    .advice-head p{
+        font-size: 100%;
+    }
+    .advice-img-wrapper {
+        width: 100%;
+        margin-top: 2rem;
+    }
+    .advice-details-wrapper .nav-tabs{
+        width: 100%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-item{
+        width: calc((100% - 20px) / 2);
+        margin-right: 10px;
+    }
+    .advice-details-wrapper .nav-tabs .nav-item:nth-child(2) .nav-link::after{
+        content: unset;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link:after {
+        right:7%;
+    }
+    .advice-details-wrapper .nav-tabs .nav-link.active::before {
+        right:32%;
+    }
+    .view-more-advice-btn {
+        width:43%;
+    }
+    .advice-img-view-more {
+        bottom:-4%;
+    }
+    .compare-wrapper{
+        flex-wrap: wrap;
+    }
+    .compare-img-wrapper, .compare-content{
+        width: 100%;
+    }
+    .compare-content .big-font{
+        font-size: 250%;
+    }
+    .compare-content .light-font{
+        font-size: 205%;
+    }
+    .compare-content h3 {
+        font-size: 150%;
+    }
+    .compare-content p{
+        font-size: 100%;
+    }
+    .compare-img-wrapper h3 {
+        padding: 0 1rem;
+    }
+    .compare-content{
+        margin-top:0;
+    }
+    .quote-wrapper {
+        left: 0%;
+        top: -3%;
+        width: 10%;
+    }
+    .review-content span{
+        font-size: 270%;
+    }
+    .review-content h2{
+        font-size: 250%;
+        margin-bottom: 2px;
+    }
+    .review-content {
+        width: 96%;
+        padding-left: 2rem;
+    }
+    .review-content .review-wrapper .fa-star {
+        font-size: 20px;
+    }
+    .review-btn-wrapper{
+        flex-wrap: wrap;
+    }
+    .reivew-btn {
+        width: 60%;
+    }
+    .filter-btn{
+        width: 36%;
+    }
+    .dropdown-menu {
+        width: 154%;
+    }
+    .review-card{
+        width: 100%;
+        margin-right:0;
+    }
+    .user-review-wrapper {
+        margin-bottom:20px;
+    }
+    .review-view-more{
+        width: 40%;
+    }
+    .related-video-wrapper{
+        flex-wrap: wrap;
+    }
+    .videos-head{
+        padding-left:0;
+        width: 100%;
+    }
+    .video-img-wrapper{
+        width: 100%;
+    }
+    .video-content {
+        width: 65%;
+        margin-left: 1rem;
+    }
+    .play-wrapper {
+        width: 33%;
+        padding-left: 1rem;
+    }
+    .videos-head span{
+        font-size: 270%;
+    }
+    .videos-head h2{
+        font-size: 250%;
+    }
+    #owl-videos{
+        padding-left:15px;
+    }
+    .gradient {
+        width: 15%;
+        top: -1%;
+    }
+    .video-icon-wrapper {
+        width: 22%;
+        left: 35%;
+    }
+    .nav-tabs .nav-link {
+        font-size: 100%;
+    }
+}
+
+@media screen and (min-width: 279px) and (max-width: 319px) {
+    /* Galaxy Fold */
+}
